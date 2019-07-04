@@ -1,2 +1,0 @@
-//string mongo
-'mongodb+srv://semana:semana@cluster0-8odi8.mongodb.net/test?retryWrites=true&w=majority'
